@@ -1,0 +1,9 @@
+Company,Role,Package(LPA),Eligibility_CGPA,Backlogs_Allowed,Eligibility_10th,Eligibility_12th
+Google,Software Engineer,45.0,8.0,0,,
+Amazon,Data Engineer,30.0,7.0,1,,
+Microsoft,AI Engineer,40.0,8.5,0,,
+Infosys,System Engineer,6.0,6.0,2,,
+TCS,Data Analyst,5.0,6.5,1,,
+Wipro,Cloud Engineer,7.0,6.0,2,,
+Adobe,Machine Learning Engineer,32.0,8.0,0,,
+Avasoft,Data Scientist,6.0,5.0,0,50.0,50.0
